@@ -220,11 +220,11 @@ margin-bottom: 16px;
 
 /* 
 
-FEATURED
+FEATURES 
 
 */
 
-#featured {
+#features {
     padding-top: 8vw;
     background-color: rgba(115, 66, 214, 0.1);
 }
@@ -249,5 +249,10 @@ FEATURED
 }
 
 .book:hover .book__img {
-    tramsform: scale(1.03);
+    transform: scale(1.03);
+}
+
+.book {
+    font-size: 16px;
+    text-align: left;
 }
